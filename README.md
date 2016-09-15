@@ -2,9 +2,9 @@
 These are expressjs project examples modified from https://github.com/expressjs/express
 
 
-# How to run each server
-Go to each the subfolder and run
+# How to use each example
+Go to each the subfolder, install dependencies and run, e.g.
 
 ```
-    npm start
+    cd spa && npm install && npm start
 ```
