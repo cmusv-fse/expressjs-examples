@@ -1,17 +1,11 @@
 {
-  "name": "spa",
-  "version": "0.0.0",
-  "private": true,
-  "scripts": {
-    "start": "node ./bin/www"
-  },
+  "name": "starter-node-angular",
+  "main": "server.js",
   "dependencies": {
-    "body-parser": "~1.15.1",
-    "cookie-parser": "~1.4.3",
-    "debug": "~2.2.0",
-    "express": "~4.13.4",
-    "jade": "~1.11.0",
-    "morgan": "~1.7.0",
-    "serve-favicon": "~2.3.0"
+    "express" : "~4.5.1",
+	"mongoose" : "~3.8.0",
+	"body-parser" : "~1.4.2",
+	"method-override" : "~2.0.2"
   }
 }
+
