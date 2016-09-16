@@ -38,3 +38,5 @@ jspm_packages
 
 # Ignore DS_Store
 .DS_Store
+.idea
+bower_components

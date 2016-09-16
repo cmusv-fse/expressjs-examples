@@ -1,0 +1,15 @@
+{
+  "name": "mvc-simple",
+  "description": "",
+  "main": "",
+  "authors": [
+    "Shicheng Xu <lightxuzju@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/cmusv-fse/expressjs-examples",
+  "moduleType": [],
+  "private": true,
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}

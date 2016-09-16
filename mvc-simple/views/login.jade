@@ -1,0 +1,10 @@
+extends layout
+
+block content
+    .container
+        form(action="/users", method="post").form-signin
+            h2.form-signin-heading Please sign in
+            label.sr-only(for='userName') User Name
+            input#userName.form-control(name="userName" type='string', placeholder='Your Name', required='', autofocus='')
+
+            button.btn.btn-lg.btn-primary.btn-block(type='submit') Sign in
